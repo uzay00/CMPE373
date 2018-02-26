@@ -1,4 +1,5 @@
 # CMPE373 Agent Based Modeling
+Complexity arises from simplicity, so it is our job to do reverse engineering and making the complex simple again :)
 ### K-Nearest Neighbors vs Segregation Model
 
 
