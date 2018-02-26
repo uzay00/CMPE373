@@ -1,5 +1,17 @@
 # CMPE373 Agent Based Modeling
 Complexity arises from simplicity, so it is our job to do reverse engineering and making the complex simple again :)
+
+Nobel laureate Philip Anderson said: "**More is different!**". German scientist and engineer Jochen Fromm:
+ - one water molecule is not fluid 
+ - one gold atom is not metallic 
+ - one neuron is not conscious 
+ - one amino acid is not alive
+> "Emergence" describes the ability of individual components of a large system to work together to give rise to dramatic and diverse behaviour. (Read more at: https://phys.org/news/2014-10-remarkable-simplicity-complexity.html#jCp )
+
+
+Read more at: https://phys.org/news/2014-10-remarkable-simplicity-complexity.html#jCp
+ - 
+
 ### K-Nearest Neighbors vs Segregation Model
 
 
