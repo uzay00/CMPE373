@@ -9,8 +9,7 @@ Nobel laureate Philip Anderson said: "**More is different!**". German scientist 
 > "Emergence" describes the ability of individual components of a large system to work together to give rise to dramatic and diverse behaviour. (Read more at: https://phys.org/news/2014-10-remarkable-simplicity-complexity.html#jCp )
 
 
-Read more at: https://phys.org/news/2014-10-remarkable-simplicity-complexity.html#jCp
- - 
+
 
 ### K-Nearest Neighbors vs Segregation Model
 
