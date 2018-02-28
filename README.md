@@ -16,6 +16,13 @@ Nobel laureate Philip Anderson said: "**More is different!**". German scientist 
 
 ## Python Crash Course 
 
+ - https://uzay00.github.io/kahve/dersler/yapayzeka/ders9/
+ - https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf
+ - http://ehmatthes.github.io/pcc/cheatsheets/README.html
+ 
+
+
+
 ## Machine Learning Crash Course (Reading)
 
  - [Part 1](https://ml.berkeley.edu/blog/2016/11/06/tutorial-1/) The basics of machine learning - regression, cost functions, and gradient descent.
