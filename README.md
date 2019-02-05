@@ -40,3 +40,5 @@ Nobel laureate Philip Anderson said: "**More is different!**". German scientist 
  - https://www.udemy.com/machinelearning/
 
 
+## Deep Reinforcemnt Learning
+ - https://simoninithomas.github.io/Deep_reinforcement_learning_Course/
