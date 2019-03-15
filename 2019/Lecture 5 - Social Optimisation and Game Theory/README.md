@@ -1,5 +1,8 @@
-Introduction to Python
-[100 page free book](https://www.oreilly.com/programming/free/files/a-whirlwind-tour-of-python.pdf)
 
-ABM
-[consumer behavior](https://www.youtube.com/watch?v=vAPr9q4Hhng&index=5&list=PLkY2qVyUgPS_8-6rwRayh0h-GklNHIfxW)
+From Social Simulation to Optimisation
+ - [Social Simulation](https://github.com/uzay00/CMPE373/blob/master/2018/Lecture1/Social%20Simulation.ipynb)
+ - [Social Optimisation](https://github.com/uzay00/CMPE373/blob/master/2018/Lecture1/Social%20Optimization.ipynb)
+
+Game Theory
+ - [Prisoner's Dilemma I](https://github.com/uzay00/CMPE373/blob/master/2018/Lecture6/ABM%20for%20cooperation.ipynb)
+ - [Prisoner's Dilemma II](https://github.com/uzay00/CMPE373/blob/master/2018/Lecture6/Cooperation%20Game.ipynb)
