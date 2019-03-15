@@ -18,3 +18,5 @@ ABM
 ## Evolution of social norms
 - [How coopeation evolves?](https://www.worldscientific.com/doi/abs/10.1142/S0219525916500156) Replicate and improve the results of this article.
  
+## Deep Reinforcement Learning
+- Use Deep Reinforcement Learning for a specific task.
