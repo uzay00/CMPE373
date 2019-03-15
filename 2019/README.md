@@ -9,14 +9,16 @@ ABM
 
 # Projects
 
-## Feature Selection
+You can choose one of the projects from the below list. You can for a team of at most 5 student.
+
+### 1. Feature Selection
  - Use genetic algorithm and many other algorithm for feature selection in a dataset where number of features > 30
 
-## Agent-based optimisation for Machine Learning
+### 2. Agent-based optimisation for Machine Learning
 - Use Agent-based approach for optimising weights of a neural network for a specific task (Ex: Flappy Bird)
 
-## Evolution of social norms
+### 3. Evolution of social norms
 - [How coopeation evolves?](https://www.worldscientific.com/doi/abs/10.1142/S0219525916500156) Replicate and improve the results of this article.
  
-## Deep Reinforcement Learning
+### 4. Deep Reinforcement Learning
 - Use Deep Reinforcement Learning for a specific task.
