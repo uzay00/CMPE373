@@ -1,0 +1,2 @@
+ - [nbviewer](https://nbviewer.jupyter.org)
+ - [our notebook](https://nbviewer.jupyter.org/github/uzay00/CMPE373/blob/master/2019/Lecture%206%20-%20Review/Review%20of%20CMPE%20373%20before%20Midterm.ipynb#Fundamentals-of-Machine-Learning)
