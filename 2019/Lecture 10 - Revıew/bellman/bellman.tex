@@ -1,0 +1,77 @@
+\documentclass[11pt]{amsart}
+\usepackage{geometry}                % See geometry.pdf to learn the layout options. There are lots.
+\geometry{letterpaper}                   % ... or a4paper or a5paper or ... 
+%\geometry{landscape}                % Activate for for rotated page geometry
+%\usepackage[parfill]{parskip}    % Activate to begin paragraphs with an empty line rather than an indent
+\usepackage{graphicx}
+\usepackage{amssymb}
+\usepackage{epstopdf}
+\DeclareGraphicsRule{.tif}{png}{.png}{`convert #1 `dirname #1`/`basename #1 .tif`.png}
+
+\title{Bellman Equation}
+\author{Uzay Cetin}
+%\date{}                                           % Activate to display a given date or no date
+
+\begin{document}
+\maketitle
+\section{Reinforcement Learning}
+%\subsection{}
+
+\subsection{Bellman Equation}
+How to measure $Q(s,a)$, the quality/goodness of an action $a$ given the state $s$ we are in? If we know it for every possible action $a$, we can maximize our outcome. Bellman equation, gives us a recursive formula for that.
+
+$$Q(s,a) = R(s,a) + \gamma max_{a'} Q(s',a')$$
+
+Which means that, quality of action $a$ in current state $s$ equals to an immediate reward $R(s,a)$ plus a $\gamma$ discounted $max_{a'} Q(s',a')$ maximum quality we can get with a new action $a'$ from the new state $s'$. That is,
+
+\begin{center}
+Current quality = immediate reward + discounted Future Quality 
+\end{center}
+
+\subsection{Temporal difference}
+In an ideal case, after many iterations, Bellman Equation will be true. Initially there will be non-zero temporal difference $TD(s,a)$.
+
+$$TD(s,a) = [R(s,a) + \gamma max_{a'} Q(s',a')] - Q(s,a) \neq 0$$
+
+\subsection{Q-Learning}
+In the environment, there are non-zero rewards and initially $Q(s,a) = 0$ for all states and actions. During an episode,
+\begin{itemize}
+	\item Based on our \emph{predictions} $Q(s,a)$, we choose max of possible actions. 
+	\item After each action, we learn a new \emph{target} value $R(s,a) + \gamma max_{a'} Q(s',a')$
+\end{itemize}
+That is, for $Q(s,a)$ 
+\begin{itemize}
+	\item Previously, we had collected \emph{prediction} values $Q(s,a) = Q(s,a) $ 
+	\item Now a new \emph{target} value comes, $Q(s,a) = R(s,a) + \gamma max_{a'} Q(s',a')$
+\end{itemize}
+The question is how to combine, previously collected prediction values with a new target value?
+
+\subsection{Online Learning}
+Previous question can be converted a simple moving average problem, 
+%
+%
+\begin{equation} \label{eq1}
+\begin{split}
+\bold{\overline{x_t}} & = \frac{1}{t}\sum^{t}_{i} x_i \\
+              & = \frac{1}{t} (x_1 + x_2 + \ldots + x_{t-1} + x_t)\\
+               & = \frac{1}{t} ( (t-1)\bold{\overline{x_{t-1}} } + x_t)\\
+               & = \bold{\overline{x_{t-1}}} + \frac{1}{t} (x_t - \bold{\overline{x_{t-1}}})\\
+\end{split}
+\end{equation}
+%
+%
+Here, lets write $\alpha =  \frac{1}{t} $, $\bold{\overline{x_t}}  = Q_t(s,a)$ and $x_t = [R(s,a) + \gamma max_{a'} Q(s',a')] $
+%
+\vspace{1cm}
+We get
+\begin{equation} \label{eq2}
+\begin{split}
+%\bold{\overline{x_t}} & =\bold{\overline{x_{t-1}}} + \frac{1}{t} (x_t - \bold{\overline{x_{t-1}}})\\
+Q_t(s,a) & = Q_{t-1}(s,a) + \alpha ([R(s,a) + \gamma max_{a'} Q(s',a')]  - Q_{t-1}(s,a) )\\
+\end{split}
+\end{equation}
+
+
+
+
+\end{document}  
