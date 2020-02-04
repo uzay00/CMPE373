@@ -1,6 +1,6 @@
 
 # Homework
-- Make a summary of this article: https://www.pnas.org/content/99/suppl_3/7280
+- Make a two-page summary of this article: https://www.pnas.org/content/99/suppl_3/7280
 
 # Projects
 
