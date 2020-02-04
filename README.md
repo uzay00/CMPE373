@@ -1,24 +1,16 @@
-# CMPE232 : Advanced Data Structure and Algorithms
+# CMPE373 : Agent-based Modeling
 
-__Textbook__.  The textbook Algorithms, 4th Edition by Robert Sedgewick and Kevin Wayne.
-All the related course materials can be found on our textbook’s website. 
+__Textbook__.  “Agent-Based and Individual-Based Modeling: A Practical Introduction” by Steven F. Railsback & Volker Grimm 
 
 <p align="center">
-  <img src="https://algs4.cs.princeton.edu/cover.png" width="350"/>
+  <img src="https://pup-assets.imgix.net/onix/images/9780691190822.jpg?w=640" width="350"/>
 </p>
 
 
 Codes:
 
-  * https://algs4.cs.princeton.edu/code/
+  * https://github.com/uzay00/CMPE373/tree/master/2019
 
-Slides
-
-  * http://algs4.cs.princeton.edu/lectures/
-
-Video Lectures
-
-  * https://www.coursera.org/learn/algorithms-part2
 
 The code I implement during the class is inspired from our textbook.
 
@@ -30,8 +22,7 @@ Our Course
 
 | Assesment        | Quantity           | Percentage (%)  |
 | ------------- |:-------------:| -----:|
-| Quiz          | 4             | 15|
-| Project       | 1             | 25|
+| Project       | 1             | 40|
 | Midterm(s)    | 1             | 30 |
 | Final exam    | 1             |  30|
 
