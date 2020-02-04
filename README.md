@@ -8,6 +8,7 @@ __Textbook__.  “Agent-Based and Individual-Based Modeling: A Practical Introdu
 
 Course on AI:
   * https://inst.eecs.berkeley.edu/~cs188/fa18/
+  
 Codes:
 
   * https://github.com/uzay00/CMPE373/tree/master/2019
