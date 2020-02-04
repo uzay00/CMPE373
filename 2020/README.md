@@ -13,3 +13,5 @@ You can choose one of the projects from the below list. You can for a team of at
 ### 2. Dynamic Route Optimisation
 - Learn DRO and apply to a specific domain and problem
 
+### 3. Ant Colony Optimisation
+- Learn ACO and apply to a specific domain and problem
