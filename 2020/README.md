@@ -15,7 +15,7 @@ Lecture 2
 Lecture 3
 - [Introduction to social optimisation](https://github.com/uzay00/CMPE373/blob/master/2018/Lecture1/Social%20Optimization.ipynb)
 
-# Homeworks
+## Homeworks
 Make a two-page summary of these articles: 
  - https://www.pnas.org/content/99/suppl_3/7280
 
