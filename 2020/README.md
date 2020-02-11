@@ -14,6 +14,7 @@ Lecture 2
 
 Lecture 3
 - [Introduction to social optimisation](https://github.com/uzay00/CMPE373/blob/master/2018/Lecture1/Social%20Optimization.ipynb)
+- Try yourself: [Ant Colony Optimisation](https://github.com/Akavall/AntColonyOptimization)
 
 ## Homeworks
 Make a two-page summary of these articles: 
