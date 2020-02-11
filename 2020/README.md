@@ -20,6 +20,9 @@
 #### Lecture 4
 - [Introduction to Graphs](https://github.com/uzay00/CMPE232/blob/master/2019/Lecture2%20-%20DFS%20and%20handmade%20graph%20traversal/Lecture%203%20-%20Handmade%20Graph%20Class%20Preperation.ipynb)
 
+#### Lecture 5
+- [Protest Model](https://nbviewer.jupyter.org/github/uzay00/CMPE373/blob/master/2020/4%20Protest%20Model/1-Simplest%20Protest%20Model.ipynb)
+- [Multi-Agent Libraries](https://osbrain.readthedocs.io/en/stable/advanced_patterns.html)
 
 
 
