@@ -7,10 +7,10 @@
 
 Dear students,
 
-For your first homework, you will implement Ant Colony Optimisation from scratch. 
+For your first homework, you will implement Ant Colony Optimisation from scratch for the problem of finding shortest path in an environment represented as a distance matrix. 
  - You __must write__ a seperate `Ant Class` and `AntColony Class`. 
    - REMARK: _This is an obligation!_
- - I suggest you to start with [this version](https://nbviewer.jupyter.org/github/uzay00/CMPE373/blob/master/2020/3%20KarincaKolonisi/KarıncaKolonisi%20v0.ipynb) of code and improve the code.
+ - I suggest you to start with [this version](https://nbviewer.jupyter.org/github/uzay00/CMPE373/blob/master/2020/3%20KarincaKolonisi/KarıncaKolonisi%20v0.ipynb) of code and improve it. (Add pheromone update method to `Ant Class`, consider a tabu list of visited cities, pheromone decay, write `AntColony Class` from scratch etc)
  
 You should follow my [ant colony notes](https://nbviewer.jupyter.org/github/uzay00/CMPE373/blob/master/2020/3%20KarincaKolonisi/ant_uzay.pdf) to fullfill the requirements of the code.
 
