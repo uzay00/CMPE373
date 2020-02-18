@@ -1,4 +1,4 @@
-# Homework
+## Homework 1
 
 | Title   | Due Date        | Hour           |Team Size           |
 | ------------- | ------------- |:-------------:|:-------------:|
@@ -14,7 +14,7 @@ For your first homework, you will implement Ant Colony Optimisation from scratch
  
 You should follow my [ant colony notes](https://nbviewer.jupyter.org/github/uzay00/CMPE373/blob/master/2020/3%20KarincaKolonisi/ant_uzay.pdf) to fullfill the requirements of the code.
 
-# Output
+## Output
 Write a report which includes:
  - Describe how Ant Colony Optimisation works
  - Describe your code for the `Ant Class`
