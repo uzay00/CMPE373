@@ -2,7 +2,7 @@
 
 | Title   | Due Date        | Hour           |Team Size           |
 | ------------- | ------------- |:-------------:|:-------------:|
-|      Ant Colony Optimisation from Scratch         | 06.03.2020       | 23:59           | Upto 5 students          |
+|      Ant Colony Optimisation from Scratch         | 03.03.2020       | 23:59           | Upto 5 students          |
 
 
 Dear students,
@@ -17,9 +17,11 @@ You should follow my [ant colony notes](https://nbviewer.jupyter.org/github/uzay
 # Output
 Write a report which includes:
  - Describe how Ant Colony Optimisation works
- - Describe `Ant Class`
- - Describe `AntColony Class`
- - Describe Environment
+ - Describe your code for the `Ant Class`
+ - Describe your code for the `AntColony Class`
+ - Describe your code for the Environment
+ 
+Bring your printed reports on due date.
 
 
 
