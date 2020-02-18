@@ -23,6 +23,3 @@ Write a report which includes:
 
 
 
-| Due Date        | Hour           |
-| ------------- |:-------------:|
-| 06.03.2020       | 23:59           | 
