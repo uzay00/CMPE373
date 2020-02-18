@@ -21,7 +21,7 @@ Write a report which includes:
  - Describe your code for the `AntColony Class`
  - Describe your code for the Environment
  
-Bring your printed reports on due date.
+Bring your printed report on the given due date. (Please, dont forget to write the student number, name&surname of all your team mates to the report.)
 
 
 
