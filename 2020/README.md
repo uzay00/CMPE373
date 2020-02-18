@@ -10,8 +10,8 @@
 #### Lecture 2
 - [Introduction to Simulation](https://github.com/uzay00/CMPE373/blob/master/2018/Lecture1/Social%20Simulation.ipynb)
 - [Introduction to Linear regression](https://github.com/uzay00/KaVe-Egitim/blob/master/YapayOgrenme/LineerRegresyon/LineerRegresyon.ipynb)
- - [Introduction to Sklearn (Machine Learning)](https://nbviewer.jupyter.org/github/uzay00/CMPE373/blob/master/2018/Lecture1/Agents%20and%20Artificial%20Intelligence.ipynb)
-  - Case study: [How to combine linear-regressor-agents?](https://nbviewer.jupyter.org/github/uzay00/CMPE373/blob/master/2020/2%20Combiner/13x%20-%20CombineIt.ipynb)
+- [Introduction to Sklearn (Machine Learning)](https://nbviewer.jupyter.org/github/uzay00/CMPE373/blob/master/2018/Lecture1/Agents%20and%20Artificial%20Intelligence.ipynb)
+ - Case study: [How to combine linear-regressor-agents?](https://nbviewer.jupyter.org/github/uzay00/CMPE373/blob/master/2020/2%20Combiner/13x%20-%20CombineIt.ipynb)
 
 #### Lecture 3
 - [Introduction to social optimisation](https://github.com/uzay00/CMPE373/blob/master/2018/Lecture1/Social%20Optimization.ipynb)
