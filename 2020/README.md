@@ -18,6 +18,7 @@
 - Try yourself: [Ant Colony Optimisation](https://github.com/Akavall/AntColonyOptimization)
   - [read](http://www.theprojectspot.com/tutorial-post/ant-colony-optimization-for-hackers/10)
   - [Uzay's Notes](https://nbviewer.jupyter.org/github/uzay00/CMPE373/blob/master/2020/3%20KarincaKolonisi/ant_uzay.pdf)
+- [Introduction to Logistic regression](https://nbviewer.jupyter.org/github/uzay00/CMPE373/blob/master/2019/Lecture7%20-%20Logistic%20Regression/Soru%20-%20El%20yapimi%20Logistic%20Regresyon.ipynb)
 
 #### Lecture 4
 - [Introduction to Graphs](https://github.com/uzay00/CMPE232/blob/master/2019/Lecture2%20-%20DFS%20and%20handmade%20graph%20traversal/Lecture%203%20-%20Handmade%20Graph%20Class%20Preperation.ipynb)
