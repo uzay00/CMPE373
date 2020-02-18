@@ -34,6 +34,11 @@
 <BR>
  
 ## Homeworks
+
+First Homework:
+ - [Ant Colony Optimisation from scratch](https://github.com/uzay00/CMPE373/tree/master/2020/3%20KarincaKolonisi) for the problem of finding shortest path in an environment represented as a distance matrix. Due date: 03.03.2020.
+
+
 Make a two-page summary of these articles: 
  - https://www.pnas.org/content/99/suppl_3/7280
 
