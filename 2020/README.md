@@ -27,8 +27,13 @@
 #### Lecture 5
 - [Protest Model](https://nbviewer.jupyter.org/github/uzay00/CMPE373/blob/master/2020/4%20Protest%20Model/1-Simplest%20Protest%20Model.ipynb)
 
-
-
+#### General Review
+- [Data manupipulation on ABM](https://github.com/uzay00/CMPE373/blob/master/2020/3-1%20Ant%20Colony%20on%20Graphs/Data%20manupipulation%20on%20ABM.ipynb)
+- [Social Contaigon](https://github.com/uzay00/CMPE373/blob/master/2020/1%20social%20simulation/0%20-%20ABM.ipynb)
+- [Culture Model](https://github.com/uzay00/CMPE373/blob/master/2020/1%20social%20simulation/Culture%20Model.ipynb)
+- [Network Analysis](https://github.com/uzay00/CMPE373/blob/master/2020/6%20network%20UskudarAmerikan/intro2network.ipynb) 
+[link2](https://github.com/uzay00/CMPE373/blob/master/2020/6%20network%20UskudarAmerikan/1%20Network%20Olusturmak.ipynb)
+- [Ant Colony on Graph](https://github.com/uzay00/CMPE373/blob/master/2020/3-1%20Ant%20Colony%20on%20Graphs/ant%20colony%20on%20graph%20v2.ipynb)
 <BR>
 <BR>
 <BR>
