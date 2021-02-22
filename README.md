@@ -3,7 +3,7 @@
 __Textbook__.  “Agent-Based and Individual-Based Modeling: A Practical Introduction” by Steven F. Railsback & Volker Grimm 
 
 <p align="center">
-  <img src="https://pup-assets.imgix.net/onix/images/9780691190822.jpg?w=640" width="350"/>
+  <img src="https://images-na.ssl-images-amazon.com/images/I/41Hq1xxKTXL._SX398_BO1,204,203,200_.jpg" width="350"/>
 </p>
 
 Course on AI:
