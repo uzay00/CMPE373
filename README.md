@@ -19,7 +19,10 @@ The code of the previous year's course
 
 # Course Evaluation 
 Our Course
-  * https://ects.bilgi.edu.tr/Course/Detail?Catalog_CourseId=8277320
+  * https://ects.bilgi.edu.tr/Course/Detail?catalog_courseId=13647669
+Video Lectures (2020)
+  * [Simulation of Social systems](https://youtu.be/uAgxbrLoSxU)
+  * [Artificial Collective Intelligence](https://youtu.be/IuVoRSV5PO0)
 
 
 | Assesment        | Quantity           | Percentage (%)  |
