@@ -23,8 +23,8 @@ Our Course
 
 
 Video Lectures (2020)
-  * [Simulation of Social systems](https://youtu.be/uAgxbrLoSxU)
-  * [Artificial Collective Intelligence](https://youtu.be/IuVoRSV5PO0)
+  * [Simulation of Social systems](https://www.youtube.com/watch?v=uAgxbrLoSxU&list=PLD4TWcPfbZO9HmaSutF_R2Y2RmiNDxvaP)
+  * [Artificial Collective Intelligence](https://www.youtube.com/watch?v=IuVoRSV5PO0&list=PLD4TWcPfbZO8jdml6-od2Yxc2y_qgMB2h)
 
 
 | Assesment        | Quantity           | Percentage (%)  |
