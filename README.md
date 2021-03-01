@@ -35,11 +35,11 @@ Video Lectures (2020)
 
 In order to pass this course, a minimum of 35 is required at Final Exam. Attendance and course participation may effect your Discussion grade.
 
-# CMPE 373 - 2021 
+# CMPE 373 - 2021 Version
 
-### Lecture1:Introduction to ABM
+### Lecture1: Introduction to ABM
 ### Lecture2: Modeling 
  - Watch First lecture from [Simulation of Social systems](https://www.youtube.com/watch?v=uAgxbrLoSxU&list=PLD4TWcPfbZO9HmaSutF_R2Y2RmiNDxvaP)
- - What is a Model?  [Equation nased Models](https://nbviewer.jupyter.org/github/uzay00/CMPE373/blob/master/2019/Lecture%201%20-%20Modeling/Lecture%201-%20Introduction%20to%20Modeling%20with%20Python%20.ipynb)
+ - What is a Model?  [Equation based Models](https://nbviewer.jupyter.org/github/uzay00/CMPE373/blob/master/2019/Lecture%201%20-%20Modeling/Lecture%201-%20Introduction%20to%20Modeling%20with%20Python%20.ipynb)
 
 ### Lecture3: .. 
