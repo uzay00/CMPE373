@@ -41,7 +41,7 @@ In order to pass this course, a minimum of 35 is required at Final Exam. Attenda
 ### Lecture2: Modeling 
  - What is a Model?  [Equation based Models](https://nbviewer.jupyter.org/github/uzay00/CMPE373/blob/master/2019/Lecture%201%20-%20Modeling/Lecture%201-%20Introduction%20to%20Modeling%20with%20Python%20.ipynb)
  - Watch First lecture 'KaVe101 Lecture1 ABM Disease Model' from [Simulation of Social systems](https://www.youtube.com/watch?v=uAgxbrLoSxU&list=PLD4TWcPfbZO9HmaSutF_R2Y2RmiNDxvaP)
- - Optional Video: https://www.youtube.com/watch?v=gxAaO2rsdIs
+ - Optional Video: [Simulating an Epidemid](https://www.youtube.com/watch?v=gxAaO2rsdIs)
  
 [Optional] Homework: Write a max-2 page report where you define and compare agent-based modeling and equation-based modeling with examples.
 
