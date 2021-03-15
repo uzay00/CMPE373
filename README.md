@@ -45,6 +45,11 @@ In order to pass this course, a minimum of 35 is required at Final Exam. Attenda
  
 [Optional] Homework: Write a max-2 page report where you define and compare agent-based modeling and equation-based modeling with examples.
 
-### Lecture3: .. 
+### Lecture3: Social Simulation
 - [Culture Model](https://github.com/uzay00/CMPE373/blob/master/2020/1%20social%20simulation/Culture%20Model.ipynb)
 - Watch Second lecture 'KaVe101 Lecture2 ABM Culture Model' from [Simulation of Social systems](https://www.youtube.com/watch?v=uAgxbrLoSxU&list=PLD4TWcPfbZO9HmaSutF_R2Y2RmiNDxvaP)
+
+### Lecture4: From Social Simulation to Optimisation
+ - [Social Simulation](https://github.com/uzay00/CMPE373/blob/master/2018/Lecture1/Social%20Simulation.ipynb)
+ - [Social Optimisation](https://github.com/uzay00/CMPE373/blob/master/2018/Lecture1/Social%20Optimization.ipynb)
+ - [Logistic Regression with Social Optimization](https://github.com/uzay00/CMPE373/blob/master/2018/Lecture5/Logistic%20Regression%20with%20Social%20Optimization.ipynb)
