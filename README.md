@@ -57,4 +57,6 @@ In order to pass this course, a minimum of 35 is required at Final Exam. Attenda
  - [Logistic Regression with Social Optimization](https://github.com/uzay00/CMPE373/blob/master/2018/Lecture5/Logistic%20Regression%20with%20Social%20Optimization.ipynb)
 
 ### Lecture5: Self-Organising Maps
+Reosurce [link](https://www.researchgate.net/publication/321208970_Bioelectromagnetism_5_Synapses_Receptor_Cells_and_Brain/figures?lo=1)
 ![](https://i.pinimg.com/originals/7f/f0/cf/7ff0cfd6c85de50b966777f2c62851ed.png)
+The division of sensory (left) and motor (right) functions in the cerebral cortex. (From Penfield and Rasmussen, 1950.
