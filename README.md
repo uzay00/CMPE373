@@ -55,3 +55,6 @@ In order to pass this course, a minimum of 35 is required at Final Exam. Attenda
  - [Social Simulation](https://github.com/uzay00/CMPE373/blob/master/2018/Lecture1/Social%20Simulation.ipynb)
  - [Social Optimisation](https://github.com/uzay00/CMPE373/blob/master/2018/Lecture1/Social%20Optimization.ipynb)
  - [Logistic Regression with Social Optimization](https://github.com/uzay00/CMPE373/blob/master/2018/Lecture5/Logistic%20Regression%20with%20Social%20Optimization.ipynb)
+
+### Lecture5: Self-Organising Maps
+![](https://i.pinimg.com/originals/7f/f0/cf/7ff0cfd6c85de50b966777f2c62851ed.png)
