@@ -61,3 +61,5 @@ Resource [link](https://www.researchgate.net/publication/321208970_Bioelectromag
 ![](https://i.pinimg.com/originals/7f/f0/cf/7ff0cfd6c85de50b966777f2c62851ed.png)
 
 The division of sensory (left) and motor (right) functions in the cerebral cortex. (From Penfield and Rasmussen, 1950.
+
+> The goal of learning in the self-organizing map is to cause different parts of the network to respond similarly to certain input patterns. This is partly motivated by how visual, auditory or other sensory information is handled in separate parts of the cerebral cortex in the human brain. [Wikipedia](https://en.wikipedia.org/wiki/Self-organizing_map)
