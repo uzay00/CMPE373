@@ -67,6 +67,10 @@ The division of sensory (left) and motor (right) functions in the cerebral corte
 ### Lecture6: Genetic Algorithms
 https://youtu.be/ZhmlrdC0iAY
 
+Codes
+ - Ideal Face Creation [Code](https://github.com/uzay00/CMPE373/blob/master/2019/Lecture%202%20-%20ABM%20and%20Genetic%20Algorithm/Genetic%20Algorithm%20-%20Face%20Creation.ipynb)
+ - Finding Shostest Paths [Code](https://nbviewer.jupyter.org/github/uzay00/KaVe-Egitim/blob/master/KarmasikSistemler/Boun%20cmpe557%20Sem%C4%B1nar/Lecture%202%20-%20Genetic%20Algorithm%20Shortest%20Path%20Clean%20Code%20.ipynb)
+
 
 # Projects
 Dear students,
