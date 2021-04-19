@@ -74,10 +74,10 @@ Dear students,
 You can select your project title from two proposals
 
  - (ADS) Anomaly Detection with Self Organising Maps
-  - https://youtu.be/9VX2zvvAFOc
+   - https://youtu.be/9VX2zvvAFOc
  - (EFS) Feature selection with Genetic algorithms
-  - https://arxiv.org/abs/2005.05268
-  - https://youtu.be/ZhmlrdC0iAY
+   - https://arxiv.org/abs/2005.05268
+   - https://youtu.be/ZhmlrdC0iAY
   
 You need to indicate your project group name and your team members from the link https://docs.google.com/spreadsheets/d/1nFMhrRoi9CnWD3Nuyppqp3c-qYB18xUAxn9s-ehz5Dk/edit?usp=sharing
 
