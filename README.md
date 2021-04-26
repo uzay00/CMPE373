@@ -92,6 +92,10 @@ You need to indicate your project group name and your team members from the link
 
 Please start to work on your project, as soon as possible
 
+### Project Template
+
+Use a similar template to [this one](https://github.com/uzay00/CMPE251/tree/master/Project%20Template) for your projects
+
 
 Best regards
 
