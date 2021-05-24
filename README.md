@@ -77,6 +77,9 @@ Codes
 ### Lecture7: Applied Game Theory with ABMs
 https://github.com/uzay00/KaVe-Egitim/tree/master/KarmasikSistemler/Boun%20cmpe557%20Sem%C4%B1nar
 
+### Lecture8: Ant Colony Optimisation
+Video : https://www.youtube.com/watch?v=aZ_WxtIV9Ck&list=PLD4TWcPfbZO8jdml6-od2Yxc2y_qgMB2h&index=15
+Codee : https://github.com/uzay00/CMPE373/blob/master/2020/3-1%20Ant%20Colony%20on%20Graphs/ant%20colony%20on%20graph%20v2.ipynb
 
 # Projects
 Dear students,
